@@ -2,7 +2,7 @@
 var menu = document.getElementById("menu");
 var front = document.getElementById("front");
 var menuIsOpen = false;
-var gapSize = 60;
+var gapSize = 40;
   
 //====Driver's Seat=====
 menu.addEventListener("click", slideMenu);
